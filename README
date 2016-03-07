@@ -1,0 +1,11 @@
+to compile run `make`
+to run `./My2D`
+
+
+
+Navigation using arrow keys 
+pressing 'R' will restart
+pressing 'W' will change to tower view
+pressing 'E' will change to  top view
+
+
